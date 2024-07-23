@@ -1,3 +1,39 @@
+# Proyecto Landing Page
+
+## Índice
+1. [Introducción](#introducción)
+2. [Estructura de la Landing Page](#estructura-de-la-landing-page)
+3. [Visualización](#visualización)
+4. [Tecnologías Empleadas](#tecnologías-empleadas)
+
+## Introducción
+Aquí se proporciona una breve descripción del proyecto, sus objetivos y el propósito de la landing page.
+
+## Estructura de la Landing Page
+En esta sección se describe la estructura general de la landing page, incluyendo las diferentes secciones y su propósito. Por ejemplo:
+- **Header**: Contiene el logo y el menú de navegación.
+- **Hero Section**: Una sección destacada con una imagen o video de fondo y un mensaje principal.
+- **Características**: Lista de las principales características del producto o servicio.
+- **Testimonios**: Comentarios y valoraciones de los clientes.
+- **Llamada a la Acción**: Botón o formulario para que los usuarios tomen una acción específica.
+
+## Visualización
+Se detallan las consideraciones de diseño y usabilidad de la landing page, incluyendo aspectos como:
+- **Diseño Responsivo**: Cómo se adapta la página a diferentes tamaños de pantalla.
+- **Paleta de Colores**: Colores principales y secundarios utilizados.
+- **Tipografía**: Fuentes tipográficas empleadas.
+- **Imágenes y Multimedia**: Uso de imágenes, videos y otros elementos multimedia.
+
+## Tecnologías Empleadas
+Lista de las tecnologías y herramientas utilizadas para el desarrollo de la landing page, tales como:
+- **HTML5**: Estructuración del contenido.
+- **CSS3**: Estilos y diseño visual.
+- **JavaScript**: Interactividad y funcionalidades dinámicas.
+- **Frameworks y Librerías**: Bootstrap, jQuery, etc.
+- **Herramientas de Desarrollo**: Visual Studio Code, Git, etc.
+
+
+
 ## Prototipado simple
 
 ![](https://raw.githubusercontent.com/monicarias/blog/6c97e17cb9d625fea92c4f84bb3db29207b3a5b2/Presentaci%C3%B3n1.svg)
