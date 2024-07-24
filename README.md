@@ -27,7 +27,7 @@ Se detallan las consideraciones de diseño y usabilidad de la landing page, incl
 
 A continuación se presenta en imágen la representación de la Langing Page:
 
-![](https://raw.githubusercontent.com/monicarias/blog/6c97e17cb9d625fea92c4f84bb3db29207b3a5b2/Presentaci%C3%B3n1.svg)
+![](https://raw.githubusercontent.com/monicarias/blog/main/Imagen%20Landing.jpg)
 
 ## Tecnologías Empleadas
 Lista de las tecnologías y herramientas utilizadas para el desarrollo de la landing page, tales como:
