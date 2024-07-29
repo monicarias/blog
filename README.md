@@ -40,4 +40,4 @@ Lista de las tecnologías y herramientas utilizadas para el desarrollo de la lan
 
 ## Vista de la landing
 
-[ https://landingpagemarcablanca.netlify.app/](https://ejemplolanding2024.netlify.app)
+[Ejemplo Blog Viajero](https://ejemplolanding2024.netlify.app)
