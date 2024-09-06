@@ -1,11 +1,12 @@
-# Proyecto Landing Page
+# Proyecto Blog de Viaje
 
 ## Índice
 1. [Introducción](#introducción)
 2. [Estructura de la Landing Page](#estructura-de-la-landing-page)
 3. [Visualización](#visualización)
 4. [Tecnologías Empleadas](#tecnologías-empleadas)
-5. [Despliegue](#despliegue)
+5. [Codificación](#codificación)
+6. [Despliegue](#despliegue)
 
 ## Introducción
 Bienvenido a la demo de Landig Page, tu destino en línea para la compra de guitarras de alta calidad. Nuestro sitio web está diseñado para ofrecerte una experiencia de compra intuitiva, informativa y agradable, asegurando que encuentres el instrumento perfecto para ti.
@@ -36,6 +37,8 @@ Lista de las tecnologías y herramientas utilizadas para el desarrollo de la lan
 - **JavaScript**: Interactividad y funcionalidades dinámicas que facilitan la interacción del ususario.
 - **Frameworks y Librerías**: Bootstrap, jQuery, acompañados de las tecnologías base como HTML 5, CSS 3 y JavaScript.
 - **Herramientas de Desarrollo**: Visual Studio Code y Git.
+
+## Codificación
 
 
 ## Vista de la landing
