@@ -41,6 +41,6 @@ Lista de las tecnologías y herramientas utilizadas para el desarrollo de la lan
 ## Codificación
 
 
-## Vista de la landing
+## Despliegue
 
 [Ejemplo Blog Viajero](https://ejemplolanding2024.netlify.app)
