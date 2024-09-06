@@ -1,6 +1,6 @@
-<h1 align="center">CRUD App</h1>
+<h1 align="center">BLOG del viajero</h1>
 
-<p align="center">Una aplicación web sencilla para crear, leer, actualizar y eliminar datos, diseñada con un enfoque moderno y fácil de usar.</p>
+<p align="center">Un blog en html con estilos para documentar los mejores sitios turísticos</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
