@@ -26,13 +26,12 @@ Este blog ha sido creado con <em>HTML</em> y <em>CSS</em>, con un diseño limpio
 En esta sección se describe la estructura general del BLOG del viajero, incluyendo las diferentes secciones y su propósito. Por ejemplo:
 - **Header**: Contiene la información del autor y el botón de contacto para mayor información de los sitios turísticos.
 - **Título del blog**: Una sección donde se destaca el título del Blog para identificar el tipo de contenido.
-- **Lugares visitados**: Visualización de los lugares visitados junto a su imagen representativa y vínculo para mayor información.
-- **Testimonios**: Comentarios y valoraciones de los clientes.
-- **Footer**: Información de contacto a través de nuestras redes sociales y el mapa de navegación del sitio.
-
+- **Lugares visitados**: Visualización de los lugares visitados junto a su imagen representativa, fecha de la visita y vínculo para mayor información .
+- **Footer**: Información de contacto a través de nuestras redes sociales.
+  
 ## Visualización
-Se detallan las consideraciones de diseño y usabilidad de la landing page, incluyendo aspectos como:
-- **Diseño Responsivo**: La Langing se adaptada a diferentes dispositivos móviles facilitando su visualización.
+Se detallan las consideraciones de diseño y usabilidad del BLOG del viajero, incluyendo aspectos como:
+- **Diseño Responsivo**: El BLOG del viajero se adaptada a diferentes dispositivos móviles facilitando su visualización.
 - **Paleta de Colores**: Se utilizaron conceptos de psicología del color y diseño gráfico para internet a fin de generar una experiencia de usuario inigualable.
 - **Tipografía**: Se incorporaron estilos vanguardista de diseño editorial para generar una mejor experiencia del lectura a los visitantes.
 - **Imágenes y Multimedia**: Las imágenes y elementos multimedia han sido incorporados a través del serevicio de Freepik.
