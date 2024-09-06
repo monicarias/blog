@@ -23,10 +23,10 @@ Este blog ha sido creado con <em>HTML</em> y <em>CSS</em>, con un diseño limpio
 ¡Prepara tu mochila, sigue mis rutas, y déjate inspirar para tu próxima escapada! ¡Nos vemos en el camino!
 
 ## Estructura del BLOG del viajero
-En esta sección se describe la estructura general de la landing page, incluyendo las diferentes secciones y su propósito. Por ejemplo:
-- **Header**: Contiene el logo y el menú de navegación.
-- **Hero Section**: Una sección destacada con una imagen de fondo y un mensaje principal.
-- **Productos**: Visualización de los productos disponibles junto a su imagen representativa.
+En esta sección se describe la estructura general del BLOG del viajero, incluyendo las diferentes secciones y su propósito. Por ejemplo:
+- **Header**: Contiene la información del autor y el botón de contacto para mayor información de los sitios turísticos.
+- **Título del blog**: Una sección donde se destaca el título del Blog para identificar el tipo de contenido.
+- **Lugares visitados**: Visualización de los lugares visitados junto a su imagen representativa y vínculo para mayor información.
 - **Testimonios**: Comentarios y valoraciones de los clientes.
 - **Footer**: Información de contacto a través de nuestras redes sociales y el mapa de navegación del sitio.
 
