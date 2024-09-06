@@ -11,7 +11,7 @@
 
 ## Índice
 1. [Introducción](#introducción)
-2. [Estructura de la Landing Page](#estructura-de-la-landing-page)
+2. [Estructura del BLOG del viajero](#estructura-del-BLOG-del-viajero)
 3. [Visualización](#visualización)
 4. [Tecnologías Empleadas](#tecnologías-empleadas)
 5. [Codificación](#codificación)
@@ -22,7 +22,7 @@ Explora el mundo a través de mis ojos y acompáñame en esta travesía por dest
 Este blog ha sido creado con <em>HTML</em> y <em>CSS</em>, con un diseño limpio y responsive para que disfrutes del contenido desde cualquier dispositivo. Mi pasión por la aventura y la tecnología se fusionan aquí para ofrecerte una experiencia de lectura única y atractiva.
 ¡Prepara tu mochila, sigue mis rutas, y déjate inspirar para tu próxima escapada! ¡Nos vemos en el camino!
 
-## Estructura de la Landing Page
+## Estructura del BLOG del viajero
 En esta sección se describe la estructura general de la landing page, incluyendo las diferentes secciones y su propósito. Por ejemplo:
 - **Header**: Contiene el logo y el menú de navegación.
 - **Hero Section**: Una sección destacada con una imagen de fondo y un mensaje principal.
