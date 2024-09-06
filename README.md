@@ -38,7 +38,7 @@ Se detallan las consideraciones de diseño y usabilidad del BLOG del viajero, in
 
 A continuación se presenta en imágen la representación de la Langing Page:
 
-![](https://raw.githubusercontent.com/monicarias/blog/main/Imagen%20Landing.jpg)
+![](https://github.com/monicarias/blog/blob/main/Blog.png?raw=true)
 
 ## Tecnologías Empleadas
 Lista de las tecnologías y herramientas utilizadas para el desarrollo de la landing page, tales como:
