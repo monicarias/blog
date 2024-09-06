@@ -44,8 +44,6 @@ A continuación se presenta en imágen la representación de la Langing Page:
 Lista de las tecnologías y herramientas utilizadas para el desarrollo de la landing page, tales como:
 - **HTML5**: Estructuración del contenido buscando el estándar que incorpora las últimas tendencias de maquetación.
 - **CSS3**: Estilos y diseño visual aconmpañados de técnicas como flat design y UX/UI
-- **JavaScript**: Interactividad y funcionalidades dinámicas que facilitan la interacción del ususario.
-- **Frameworks y Librerías**: Bootstrap, jQuery, acompañados de las tecnologías base como HTML 5, CSS 3 y JavaScript.
 - **Herramientas de Desarrollo**: Visual Studio Code y Git.
 
 ## Codificación
