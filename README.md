@@ -18,7 +18,7 @@
 6. [Despliegue](#despliegue)
 
 ## Introducción
-Explora el mundo a través de mis ojos y acompáñame en esta travesía por destinos fascinantes, culturas vibrantes, y experiencias inolvidables. En <strong>BLOG del viajaero</strong>, no solo encontrarás guías de viaje y recomendaciones, sino también las historias que hacen de cada lugar un recuerdo imborrable.
+Explora el mundo a través de mis ojos y acompáñame en esta travesía por destinos fascinantes, culturas vibrantes, y experiencias inolvidables. En <strong>BLOG del viajero</strong>, no solo encontrarás guías de viaje y recomendaciones, sino también las historias que hacen de cada lugar un recuerdo imborrable.
 Este blog ha sido creado con <em>HTML</em> y <em>CSS</em>, con un diseño limpio y responsive para que disfrutes del contenido desde cualquier dispositivo. Mi pasión por la aventura y la tecnología se fusionan aquí para ofrecerte una experiencia de lectura única y atractiva.
 ¡Prepara tu mochila, sigue mis rutas, y déjate inspirar para tu próxima escapada! ¡Nos vemos en el camino!
 
